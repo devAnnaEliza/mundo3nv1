@@ -1,2 +1,2 @@
-# nv1mundo3
- Missão 1 do mundo 3
+# Mundo 3 - Nível 1
+ Missão prática do nível 1 - Iniciando caminho pelo Java
